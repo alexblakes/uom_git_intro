@@ -2,9 +2,9 @@
 New title on master branch
 
 # Author
-Alex Blakes
-John Smith
-Jane Doe
+Alex Blakes, University of Manchester
+John Smith, Elsewhere
+Jane Doe, Unknown
 
 # Abstract
 Blah blah blah
