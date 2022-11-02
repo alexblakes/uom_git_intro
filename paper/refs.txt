@@ -1,1 +1,2 @@
 [1] First reference
+[2] Second reference

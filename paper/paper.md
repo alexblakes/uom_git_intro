@@ -9,3 +9,4 @@ Blah blah blah
 
 # Intro
 Here's a citation [1].
+Here's another [2].
