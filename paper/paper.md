@@ -2,9 +2,9 @@
 New title on master branch
 
 # Author
-Alex Blakes
-John Smith
 Jane Doe
+John Smith
+Alex Blakes
 
 # Abstract
 Blah blah blah
