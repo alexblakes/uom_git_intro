@@ -1,5 +1,5 @@
 # Title
-Git intro course
+New title on master branch
 
 # Author
 Alex Blakes
