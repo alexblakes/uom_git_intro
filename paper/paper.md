@@ -3,6 +3,8 @@ Git intro course
 
 # Author
 Alex Blakes
+John Smith
+Jane Doe
 
 # Abstract
 Blah blah blah
