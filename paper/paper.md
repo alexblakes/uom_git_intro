@@ -18,8 +18,8 @@ Here's some waffle which may or may not be relevant.
 # Methods
 Here's how I did what I did. Many complex methods.
 
-# Conclusion
-Here's a conclusions section. Eureka!
-
 # Figures
 Figures go in their own section in a draft paper.
+
+# Discussion
+I've deleted the conclusions section, and replaced it with this discussion section.
