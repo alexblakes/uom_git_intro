@@ -20,3 +20,6 @@ Here's how I did what I did. Many complex methods.
 
 # Conclusion
 Here's a conclusions section. Eureka!
+
+# Figures
+Figures go in their own section in a draft paper.
