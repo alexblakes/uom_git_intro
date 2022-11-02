@@ -15,5 +15,8 @@ Here's another [2].
 
 Here's some waffle which may or may not be relevant.
 
+# Methods
+Here's how I did what I did. Many complex methods.
+
 # Conclusion
 Here's a conclusions section. Eureka!
